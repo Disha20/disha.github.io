@@ -1,0 +1,487 @@
+[
+		{
+			"id":21,
+			"short_name":"A1",
+			"name":"Samosa",
+			"description":"Crispy and flaky crust pyramids stuffed with spiced potato and green peas",
+			"price":2.99
+		},
+		{
+			"id":22,
+			"short_name":"A2",
+			"name":"Cutlet",
+			"description":"fresh vegetable assortment,breaded patty style.",
+			"price":3.99
+		},
+		{
+			"id":23,
+			"short_name":"A3",
+			"name":"Vegetable Pakoda",
+			"description":"Mixed vegetables dipped in chickpea batter and deep fried",
+			"price":7.99
+		},
+		{
+			"id":24,
+			"short_name":"A4",
+			"name":"Paneer Pakoda",
+			"description":"Triangle shape cottage cheese dipped in chickpea batter and deep fried",
+			"price":7.99
+		},
+		{
+			"id":25,
+			"short_name":"A5",
+			"name":"Idli",
+			"description":"Steamed rice cake",
+			"price":3.49
+		},
+		{
+			"id":26,
+			"short_name":"A6",
+			"name":"Mendu Vada",
+			"description":"Fried lentil donuts",
+			"price":3.99
+		},
+		{
+			"id":27,
+			"short_name":"C1",
+			"name":"Bhel Puri",
+			"description":"Mix of puffed rice, onion, potato,sweet and spicy sauce",
+			"price":4.99
+		},
+		{
+			"id":28,
+			"short_name":"C2",
+			"name":"Papdi Chat",
+			"description":"Diamond shaped Indian crackers mixed with potato,yogurt,sweet and spicy sauce",
+			"price":4.99
+		},
+		{
+			"id":29,
+			"short_name":"C3",
+			"name":"Samosa Chat",
+			"description":"A samosa topped with chana masala,onion,yogurt,sweet and spicy sauce",
+			"price":4.99
+		},
+		{
+			"id":30,
+			"short_name":"C4",
+			"name":"Pani Puri",
+			"description":"Round crisp poories served with a watery mixture of tamarind,green chilly chick peas and mashed potatoes on side",
+			"price":4.99
+		},
+		{
+			"id":31,
+			"short_name":"C5",
+			"name":"Dahi Puri",
+			"description":"Round crisp poories served with chickpeas, mashed potatoes, sweet sauce, spicy sauce and topped with sev and yogurt",
+			"price":4.99
+		},
+		{
+			"id":32,
+			"short_name":"IC1",
+			"name":"Chinese Bhel",
+			"description":"Chinese Bhel",
+			"price":6.99
+		},
+		{
+			"id":33,
+			"short_name":"IC2",
+			"name":"Chilli Panner",
+			"description":"Chilli Panner",
+			"price":7.99
+		},
+		{
+			"id":34,
+			"short_name":"IC3",
+			"name":"Veg Manchurian(Dry)",
+			"description":"Veg Manchurian(Dry)",
+			"price":6.99
+		},
+		{
+			"id":35,
+			"short_name":"IC4",
+			"name":"Veg Manchurian(Gravy)",
+			"description":"Veg Manchurian(Gravy)",
+			"price":6.99
+		},
+		{
+			"id":36,
+			"short_name":"IC5",
+			"name":"Hakka Noodles",
+			"description":"Hakka Noodles",
+			"price":6.99
+		},
+		{
+			"id":37,
+			"short_name":"IC6",
+			"name":"Fried Rice",
+			"description":"Fried Rice",
+			"price":7.99
+		},
+		{
+			"id":38,
+			"short_name":"SA1",
+			"name":"Vegetable Sandwich",
+			"description":"Vegetable Sandwich",
+			"price":4.99
+		},
+		{
+			"id":39,
+			"short_name":"SA2",
+			"name":"Grilled Sandwich",
+			"description":"Grilled Sandwich",
+			"price":6.99
+		},
+		{
+			"id":40,
+			"short_name":"SA3",
+			"name":"Club Sandwich",
+			"description":"Club Sandwich",
+			"price":8.99
+		},
+		{
+			"id":41,
+			"short_name":"P1",
+			"name":"Aloo Paratha",
+			"description":"Whole wheat bread stuffed with mashed potato cilantro and spice",
+			"price":3.49
+		},
+		{
+			"id":42,
+			"short_name":"P2",
+			"name":"Onion Paratha",
+			"description":"Whole wheat bread stuffed with chopped onion cilantro and spices",
+			"price":3.49
+		},
+		{
+			"id":43,
+			"short_name":"P3",
+			"name":"Panner Paratha",
+			"description":"Whole wheat bread stuffed with grated paneer and cilantro",
+			"price":3.99
+		},
+		{
+			"id":44,
+			"short_name":"P4",
+			"name":"Lachcha Paratha",
+			"description":"Whole wheat flour bread with mild and butter cooked in the clay oven.",
+			"price":3.49
+		},
+		{
+			"id":45,
+			"short_name":"S1",
+			"name":"Tomato Soup",
+			"description":"Tomato soup",
+			"price":2.49
+		},
+		{
+			"id":46,
+			"short_name":"S2",
+			"name":"Hot and Sour Soup",
+			"description":"An exotic soup of chopped mixed vegetables with fresh tomato and vegetable stock.",
+			"price":2.99
+		},
+		{
+			"id":47,
+			"short_name":"S3",
+			"name":"Manchow Soup",
+			"description":"Soup simmered in a broth with vegetables, ginger, garlic and cilantro.",
+			"price":2.99
+		},
+		{
+			"id":48,
+			"short_name":"U1",
+			"name":"Plain Uttapam",
+			"description":"Indian pancake made of rice and lentils",
+			"price":6.99
+		},
+		{
+			"id":49,
+			"short_name":"U2",
+			"name":"Onion Uttapam",
+			"description":"Pancake topped with onion",
+			"price":7.99
+		},
+		{
+			"id":50,
+			"short_name":"U3",
+			"name":"Onion Tomato Uttapam",
+			"description":"Pancake topped with onion and tomato",
+			"price":7.99
+		},
+		{
+			"id":51,
+			"short_name":"U4",
+			"name":"Vegetable Uttapam",
+			"description":"Pancake topped with grated carrot, onions, green peas, tomatoes and chopped chillies",
+			"price":7.99
+		},
+		{
+			"id":52,
+			"short_name":"D1",
+			"name":"Sada Dosa",
+			"description":"Thin rice crepe",
+			"price":4.99
+		},
+		{
+			"id":53,
+			"short_name":"D2",
+			"name":"Masala Dosa",
+			"description":"Thin crepe filled with mashed potato, onion,green peas and cashew nuts",
+			"price":5.99
+		},
+		{
+			"id":54,
+			"short_name":"D3",
+			"name":"Paper Dosa",
+			"description":"Thin Long crispy crepe",
+			"price":8.49
+		},
+		{
+			"id":55,
+			"short_name":"D4",
+			"name":"Maysore Masala Dosa",
+			"description":"Rice crepe spread with spicy home made sauce and filled with mash of potato & onion and green peas and cashew nuts",
+			"price":7.49
+		},
+		{
+			"id":56,
+			"short_name":"MC1",
+			"name":"Panner Tikka Masala",
+			"description":"Marinated cottage cheese salted with bell pepper, onion and finished with spicy creamy sauce",
+			"price":10.99
+		},
+		{
+			"id":57,
+			"short_name":"MC2",
+			"name":"Panner Makhani",
+			"description":"Cubes of cottage cheese cubes cooked in tomato and butter sauce",
+			"price":10.99
+		},
+		{
+			"id":58,
+			"short_name":"MC3",
+			"name":"Mutter Paneer",
+			"description":"Green peas and cottage cheese cubes cooked in onion and cream based sauce",
+			"price":10.99
+		},
+		{
+			"id":59,
+			"short_name":"MC4",
+			"name":"Jeera Aloo",
+			"description":" cumin spice",
+			"price":10.99
+		},
+		{
+			"id":60,
+			"short_name":"MC5",
+			"name":"Dal Fry",
+			"description":"Yellow lentils tempered with red chillies, mustard seeds, ginger, garlic, curry leaves and tomato",
+			"price":10.99
+		},
+		{
+			"id":61,
+			"short_name":"MC6",
+			"name":"Malai Kofta",
+			"description":"Vegetables dumplings cooked in cream based sauce",
+			"price":10.99
+		},
+		{
+			"id":62,
+			"short_name":"MC7",
+			"name":"Chana Masala",
+			"description":"Channa masala curry",
+			"price":9.99
+		},
+		{
+			"id":63,
+			"short_name":"MC8",
+			"name":"Palak Paneer",
+			"description":"cubes of cottage cheese and fresh spinach cooked in cream and butter sauce",
+			"price":10.99
+		},
+		{
+			"id":64,
+			"short_name":"IB1",
+			"name":"Naan",
+			"description":"Special semi-leavened dough mixed with mild, butter and baked in a traditional clay oven.",
+			"price":2.99
+		},		
+		{
+			"id":65,
+			"short_name":"IB2",
+			"name":"Garlic Naan",
+			"description":"Fresh dough stuffed with garlic and spices, baked in the clay oven",
+			"price":3.49
+		},
+		{
+			"id":66,
+			"short_name":"IB3",
+			"name":"Tandoori Roti",
+			"description":"Whole wheat bread baked in the clay oven.",
+			"price":1.99
+		},
+		{
+			"id":67,
+			"short_name":"IB4",
+			"name":"Chapati",
+			"description":"Thin soft whole wheat bread",
+			"price":1.99
+		},
+		{
+			"id":68,
+			"short_name":"R1",
+			"name":"Jeera Rice",
+			"description":"Steamed rice with cumin",
+			"price":4.99
+		},
+		{
+			"id":69,
+			"short_name":"R2",
+			"name":"Vegetable Pulav",
+			"description":"Rice cooked with garden fresh vegetables and flavored spices",
+			"price":7.49
+		},
+		{
+			"id":70,
+			"short_name":"R3",
+			"name":"Vegatable Biryani",
+			"description":"Rice cooked with yogurt and brown sauce mixed vegetable mint and coriander leaves",
+			"price":7.99
+		},
+		{
+			"id":71,
+			"short_name":"SD1",
+			"name":"Salad",
+			"description":"Salad",
+			"price":1.99
+		},
+		{
+			"id":72,
+			"short_name":"SD2",
+			"name":"Papad",
+			"description":"Papad",
+			"price":0.99
+		},
+		{
+			"id":73,
+			"short_name":"SD3",
+			"name":"Masala Papad",
+			"description":"Masala Papad",
+			"price":10.95
+		},
+		{
+			"id":74,
+			"short_name":"SP1",
+			"name":"Chole Bhature",
+			"description":"A large puffy bread made of flour and served with chick peas curry",
+			"price":8.99
+		},
+		{
+			"id":75,
+			"short_name":"SP2",
+			"name":"Cheese Uttapam",
+			"description":"Pancake topped with Cheese",
+			"price":7.99
+		},
+		{
+			"id":76,
+			"short_name":"SP3",
+			"name":"Tava Paneer Masala",
+			"description":"Cottage cheese cubes simmered in a country style spicy tomato butter sauce with fresh cilantro",
+			"price":11.99
+		},
+		{
+			"id":77,
+			"short_name":"SP4",
+			"name":"Set Dosa",
+			"description":"A set of two thin butter pan cakes served with a portion of mashed potato and green peas curry",
+			"price":7.49
+		},
+		{
+			"id":78,
+			"short_name":"T1",
+			"name":"South Indian Thali",
+			"description":"South Indian Thali",
+			"price":12.99
+		},
+		{
+			"id":79,
+			"short_name":"T2",
+			"name":"North Indian Thali",
+			"description":"North Indian Thali",
+			"price":12.99
+		},
+		{
+			"id":80,
+			"short_name":"T3",
+			"name":"Gujarati Thali",
+			"description":"Gujarati Thali",
+			"price":12.99
+		},
+		{
+			"id":81,
+			"short_name":"DS1",
+			"name":"Gulab Jamun",
+			"description":"Round milk dumplings in sugar syrup",
+			"price":2.99
+		},
+		{
+			"id":82,
+			"short_name":"DS2",
+			"name":"Rasgulla",
+			"description":"Roundels of creamed cheese in chilled sweet syrup. ",
+			"price":3.49
+		},
+		{
+			"id":83,
+			"short_name":"DS3",
+			"name":"Ras Malai",
+			"description":"Creamed cheese patty served in sweet condensed milk",
+			"price":4.49
+		},
+		{
+			"id":84,
+			"short_name":"DS4",
+			"name":"Carrot Halwa",
+			"description":"Grated carrot cooked in honey, milk and butter",
+			"price":3.49
+		},
+		{
+			"id":85,
+			"short_name":"B1",
+			"name":"Lassi",
+			"description":"Thick yogurt drink",
+			"price":2.99
+		},
+		{
+			"id":86,
+			"short_name":"B2",
+			"name":"Mango Lassi",
+			"description":"Mango flavored yogurt drink",
+			"price":3.49
+		},
+		{
+			"id":87,
+			"short_name":"B3",
+			"name":"Badam Milk",
+			"description":"Cold beverage made of almonds, cashew nuts and milk with a touch of saffron",
+			"price":3.99
+		},
+		{
+			"id":88,
+			"short_name":"B4",
+			"name":"Shikanji",
+			"description":"Shikanji",
+			"price":3.99
+		},
+		{
+			"id":89,
+			"short_name":"B5",
+			"name":"Tea",
+			"description":"Tea",
+			"price":1.99
+		}
+	
+]
+	
